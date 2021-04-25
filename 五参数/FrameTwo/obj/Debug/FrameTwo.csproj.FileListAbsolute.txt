@@ -1,0 +1,121 @@
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\07整体框架\FrameTwo\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo - 副本\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-2\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-3\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\07整体框架\FrameTwo-4（重现性检测）\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\09五参数\FrameTwo\bin\Debug\FrameTwo.exe.config
+E:\01毕业设计\09五参数\FrameTwo\bin\Debug\FrameTwo.exe
+E:\01毕业设计\09五参数\FrameTwo\bin\Debug\FrameTwo.pdb
+E:\01毕业设计\09五参数\FrameTwo\bin\Debug\FontAwesome.Sharp.dll
+E:\01毕业设计\09五参数\FrameTwo\bin\Debug\SunnyUI.Common.dll
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.csprojAssemblyReference.cache
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.FrmMain.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.实验配置.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.数据处理.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.标定.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.样品测定.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.注射泵测试.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.设置.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.附加工具.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Properties.Resources.resources
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.csproj.GenerateResource.cache
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.csproj.CoreCompileInputs.cache
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.csproj.CopyComplete
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.exe
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.pdb
+E:\01毕业设计\09五参数\FrameTwo\obj\Debug\FrameTwo.Forms.实验测试.resources
